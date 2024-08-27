@@ -2,5 +2,5 @@
 
 -👀 I'm a computer science student at Palawan State University, passionate about technology and innovation.
 
--🌱 Currently, I'm diving into the world of data, exploring careers in Data Science and Data Engineering.
+-🌱 I'm interested in building tech stack in Data Science, Data Engineering, and Web development 
 
