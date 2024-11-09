@@ -1,5 +1,5 @@
 # 💫 About Me:
--👋 Hi, I'm Dian!<br><br>-👀 I'm a second year computer science student at Palawan State University, passionate about technology and innovation.<br><br>-🌱 I'm interested in building tech stack in Data Science, Data Engineering, and Web development<br><br>-I'm currently learning SQL, Python, C#, and Java
+-👋 Hi, I'm Dian!<br><br>-👀 I'm a second year computer science student at Palawan State University, passionate about technology and innovation.<br><br>-🌱 I'm interested in building tech stack in Data Science, Data Engineering, Machine Learning and Web development<br><br>-I'm currently learning SQL, Python, C#, and Java
 
 
 ## 🌐 Socials:
